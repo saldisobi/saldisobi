@@ -1,7 +1,6 @@
 # Hi there👋! I'm [Sourabh](https://www.linkedin.com/in/sourabhsaldi/) 🙋‍♂️
 
-![Profile views](https://gpvc.arturio.dev/saldisobi)
-
+![Profile views](https://gpvc.arturio.dev/saldisobi)   ![Android Weekly #562](https://androidweekly.net/issues/issue-562/badge) 
 
 ### 🎍 Welcome to my hub 👨‍💻
 
