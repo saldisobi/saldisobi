@@ -5,8 +5,8 @@
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Android Developer
-- 💼 Currently working @ [Choco](https://choco.com/).
-- 💼 Previously [MakeMyTrip](https://www.makemytrip.com/), [Freecharge](https://www.freecharge.in/), [Railyatri](https://www.railyatri.in/)
+- 💼 Currently working @ Trade Republic (https://traderepublic.com/en-de).
+- 💼 Previously [Choco](https://choco.com/), [MakeMyTrip](https://www.makemytrip.com/), [Freecharge](https://www.freecharge.in/), [Railyatri](https://www.railyatri.in/)
 - ✍️ Write blogs on [Medium](https://medium.com/@saldisourabh)
 - 💬 Ask me about Android in general or build time & App Performance.
 - 🌱 I’m currently learning more about Jetpack Compose, App Performance, Android development(Forever).
