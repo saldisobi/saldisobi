@@ -5,7 +5,7 @@
 ### 🎍 Welcome to my hub 👨‍💻
 
 - 👦 Android Developer
-- 💼 Currently working @ [Trade Republic] (https://traderepublic.com/en-de).
+- 💼 Currently working @ [Trade Republic](https://traderepublic.com/en-de).
 - 💼 Previously [Choco](https://choco.com/), [MakeMyTrip](https://www.makemytrip.com/), [Freecharge](https://www.freecharge.in/), [Railyatri](https://www.railyatri.in/)
 - ✍️ Write blogs on [Medium](https://medium.com/@saldisourabh)
 - 💬 Ask me about Android in general or build time & App Performance.
